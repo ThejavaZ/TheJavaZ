@@ -33,7 +33,7 @@ SQL Server, MySQL / MariaDB
 Docker, Linux, Git, VS Code, Visual Studio
 
 **Otros conocimientos:**
-Python, FastAPI, Laravel, Flutter
+Python, DJango, FastAPI, Laravel, Flutter
 
 ---
 
