@@ -5,7 +5,7 @@
 📍 Hermosillo, Sonora, México
 📞 +52 662 203 7327
 📧 [javiersg150702@gmail.com](mailto:javiersg150702@gmail.com)
-🌐 GitHub / Portafolio: (agregar link)
+🌐 Portafolio: [javiersg.dev](https://javiersg.netlify.app/)
 
 ---
 
