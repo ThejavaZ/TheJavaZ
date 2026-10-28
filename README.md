@@ -1,143 +1,78 @@
-# **Javier Armando Sarmiento Gil**
+<h1 align="center">¡Hola, soy Javier Sarmiento! 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghprofile/v3/?username=TheJavaZ&color=blueviolet&style=for-the-badge" alt="TheJavaZ" />
+</p>
 
-**Desarrollador Backend / Full Stack (.NET)**
+<p align="center">
+  💻 <b>Desarrollador Backend / Full Stack (.NET)</b> especializado en crear soluciones eficientes, APIs robustas y sistemas de gestión escalables.
+</p>
 
-📍 Hermosillo, Sonora, México
-📞 +52 662 203 7327
-📧 [javiersg150702@gmail.com](mailto:javiersg150702@gmail.com)
-🌐 Portafolio: [javiersg.dev](https://javiersg.netlify.app/)
-
----
-
-## 🧠 **Perfil Profesional**
-
-Desarrollador de software con experiencia en desarrollo backend utilizando C# y ASP.NET Core, enfocado en la construcción de APIs y soluciones eficientes.
-Cuento con experiencia en automatización de procesos, manejo de bases de datos SQL y desarrollo de aplicaciones web y de escritorio.
-
-Me especializo en crear soluciones funcionales, mantenibles y orientadas a resolver problemas reales.
+<p align="center">
+  📍 Hermosillo, Sonora, México &nbsp;&bull;&nbsp; 
+  🌐 <a href="https://javiersg.netlify.app/" target="_blank">Portafolio</a> &nbsp;&bull;&nbsp; 
+  📧 <a href="mailto:javiersg150702@gmail.com">Contacto</a>
+</p>
 
 ---
 
-## 💻 **Stack Tecnológico**
+## 🛠️ Stack Tecnológico
 
-**Backend:**
-C#, ASP.NET Core, Web API, Entity Framework, Dapper
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-**Frontend:**
-JavaScript, TypeScript, React / Next.js
+<p align="center">
+  <!-- Frontend & DB -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-**Bases de Datos:**
-SQL Server, MySQL / MariaDB
-
-**Herramientas y Entorno:**
-Docker, Linux, Git, VS Code, Visual Studio
-
-**Otros conocimientos:**
-Python, DJango, FastAPI, Laravel, Flutter
-
----
-
-## 💼 **Experiencia Profesional**
-
-### **Grupo Cubits — Desarrollador .NET**
-
-📅 Febrero 2026 – Actualidad
-
-* Desarrollo de aplicaciones utilizando C# y .NET
-* Construcción de APIs con ASP.NET Core
-* Implementación de lógica de negocio y consumo de datos
-* Uso de SQL Server y procedimientos almacenados para optimización de procesos
-* Desarrollo de aplicaciones de escritorio con WPF
-
----
-
-### **SISA&AUT — Soporte y Administración de Sistemas**
-
-📅 Junio 2025 – Octubre 2025
-
-* Soporte técnico a usuarios y resolución de incidencias
-* Automatización de procesos utilizando Python
-* Desarrollo de APIs con FastAPI
-* Desarrollo de herramientas internas con React
-* Manejo y consultas de bases de datos SQL
+<p align="center">
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 🎓 **Educación**
+## 💼 Experiencia Profesional
 
-**Ingeniería en Desarrollo de Software Multiplataforma**
-Universidad Tecnológica de Hermosillo
-📅 2025 – Actualidad
-
-**Técnico en Desarrollo de Software Multiplataforma**
-Universidad Tecnológica de Hermosillo
-📅 2023 – 2025
+* **Desarrollador .NET @ Grupo Cubits** (Febrero 2026 – Actualidad)  
+  Desarrollo de APIs con ASP.NET Core, optimización con SQL Server y procedimientos almacenados, además de aplicaciones de escritorio con WPF.
+* **Soporte y Administración @ SISA&AUT** (Junio 2025 – Octubre 2025)  
+  Automatización con Python, creación de APIs con FastAPI, herramientas internas en React y soporte técnico especializado.
 
 ---
 
-## 🚀 **Proyectos Relevantes**
+## 🚀 Proyectos Destacados
 
-### **Sistema de Gestión de Inventario (En desarrollo)**
-
-* Aplicación full stack con ASP.NET Core y Next.js
-* Implementación de API REST y manejo de datos
-* Arquitectura orientada a escalabilidad
+- 🏢 **Sistema de Gestión de Inventario** — Aplicación full stack orientada a escalabilidad utilizando ASP.NET Core y Next.js.
+- 💻 **Ctrl Z** — Sistema web de gestión y asignación de equipos a empleados desarrollado con Laravel y Bootstrap.
+- 👥 **Employees** — CRUD completo en PHP, JavaScript y MySQL con interfaces interactivas.
 
 ---
 
-### **Ctrl Z — Sistema de gestión de equipos**
+## 📊 Estadísticas de GitHub
 
-* Aplicación web desarrollada con Laravel y Bootstrap
-* Gestión de asignación de equipos a empleados
-* Control de usuarios e inventario
-
----
-
-### **Employees — Sistema web de empleados**
-
-* CRUD completo con PHP, JavaScript y MySQL
-* Interfaz interactiva con SweetAlert
-* Gestión de datos y operaciones básicas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheJavaZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Stats de Javier" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJavaZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Lenguajes más usados" width="48%" />
+</p>
 
 ---
 
-## 🏆 **Reconocimientos**
-
-* Reconocimiento a la Excelencia Académica
-* Ponente en conferencia “Optimización de código”
-  (Gobierno del Estado de Sonora)
-
----
-
-## 🌐 **Idiomas**
-
-* Español: Nativo
-* Inglés: Intermedio (B1)
-
----
-
-## 🤝 **Habilidades Blandas**
-
-* Resolución de problemas
-* Trabajo en equipo
-* Adaptabilidad
-* Aprendizaje continuo
-* Comunicación efectiva
-
----
-
-
-<!--
-**ThejavaZ/TheJavaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>⚡ "Creando soluciones funcionales, mantenibles y orientadas a resolver problemas reales."</i>
+</p>
