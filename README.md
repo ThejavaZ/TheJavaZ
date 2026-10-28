@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,40,50&height=180&section=header&text=Javier%20Sarmiento&fontSize=50&fontColor=fff&animation=fadeIn&fontY=38" width="100%" />
+</p>
 <h1 align="center">¡Hola, soy Javier Sarmiento! 👋</h1>
+
 <p align="center">
   <img src="https://komarev.com/ghprofile/v3/?username=TheJavaZ&color=blueviolet&style=for-the-badge" alt="TheJavaZ" />
 </p>
@@ -75,4 +79,16 @@
 
 <p align="center">
   <i>⚡ "Creando soluciones funcionales, mantenibles y orientadas a resolver problemas reales."</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Backend+Developer+.NET+%26+C%23;Apasionado+del+Codigo+Limpio;Amante+de+Linux+y+Rust;Resolviendo+problemas+reales" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheJavaZ&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheJavaZ&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
 </p>
