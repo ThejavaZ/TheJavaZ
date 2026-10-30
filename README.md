@@ -178,7 +178,7 @@ Sitio personal para presentar mis proyectos, tecnologías y evolución como desa
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=TheJavaZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=86400" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheJavaZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=86400" alt="Lenguajes más utilizados" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheJavaZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=1" alt="Lenguajes más utilizados" height="165" />
 </p>
 
 <p align="center">
